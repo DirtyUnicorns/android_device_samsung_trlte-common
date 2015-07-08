@@ -179,3 +179,6 @@ endif
 
 #NFC
 TARGET_USES_OS_NFC := true
+
+# Prebuilt Chromium
+USE_PREBUILT_CHROMIUM := true

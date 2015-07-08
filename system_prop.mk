@@ -21,6 +21,9 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.qualcomm.cabl=1 \
     ro.secwvk=144 \
     ro.sf.lcd_density=560 \
+    debug.composition.type=gpu \
+    debug.sf.hw=1 \
+    debug.egl.hw=1 \
     ro.opengles.version=196608
 
 # GPS
